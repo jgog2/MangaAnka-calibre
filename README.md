@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Search multiple manga sources, download volumes or chapters, or prepare your own CBZ and PDF files. Preview the result and add finished books directly to your calibre library.
+  Search multiple manga sources, download volumes or chapters, or prepare your own CBZ and PDF files.
 </p>
 
 <p align="center">
@@ -29,19 +29,19 @@
 
 ![MangaAnkā volume search, provider results, and selected volumes](docs/readme/01-volume-search.png)
 
-Search across supported manga providers, browse publication volume groups, and select individual books or ranges. Volume covers, chapter coverage, and source information help you decide exactly what to add.
+Search across manga providers and select individual books or ranges.
 
 ## Chapter mode
 
 ![MangaAnkā chapter selection and chapter artwork](docs/readme/02-chapter-mode.png)
 
-Switch to individual chapters to collect specific entries, extras, or material outside a full volume. Chapter identities and available volume associations stay visible throughout selection.
+Switch to individual chapters to collect specific entries, extras, or material outside a full volume.
 
 ## Import your own CBZ and PDF files
 
 ![MangaAnkā local CBZ and PDF import workspace](docs/readme/03-import-books.png)
 
-Bring existing CBZ and PDF books into the same customization and calibre workflow. Review the selected files before preparing their metadata and output.
+Bring existing CBZ and PDF books into the same customization.
 
 ## Page customization
 
@@ -65,19 +65,19 @@ Inspect your pages with device-oriented preview settings, including the Kobo Lib
 
 ![MangaAnkā Finalization and stamped volume cover preview](docs/readme/07-cover-stamping.png)
 
-Edit titles, authors, series numbers, and covers before import. Optional cover stamping identifies the volume or chapter directly on the cover, making finished books easier to recognize in calibre.
+Edit titles, authors, series numbers, and covers before import. Optional cover stamping identifies the volume or chapter directly on the cover, making finished books easier to recognize in calibre and on your eReader.
 
 ## Provider tags & source settings
 
 ![MangaAnkā supported providers and source preferences](docs/readme/08-provider-settings.png)
 
-Use MangaDex, MangaPill, WeebCentral, MangaK, and Atsu, with identifiable source badges throughout browsing. Enable or disable providers from Settings while keeping publication-reference options separate from the download source.
+Use MangaDex, MangaPill, WeebCentral, MangaK, and Atsu, with identifiable source badges throughout browsing. Enable or disable providers from Settings while keeping publication-reference options separate from the download source. If slow search times become a problem, try disabling unfrequently used providers. 
 
 ## Bookmarks
 
 ![MangaAnkā provider-specific saved manga entries](docs/readme/09-bookmarks.png)
 
-Heart a specific manga entry from a specific provider to save it for later. Return to your saved titles in the Bookmarks view without repeating a search.
+Heart a specific manga entry from a specific provider to save it for later. Return to your saved titles in the Bookmarks view.
 
 ## Install
 
